@@ -86,6 +86,7 @@ header .content p {
     border-radius: 30px;
     font-family: "Inter", sans-serif;
     cursor: pointer;
+    color: #000;
 }
 
 .btn_primary {
